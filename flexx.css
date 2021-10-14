@@ -1,0 +1,30 @@
+.header {
+    font-size: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 150px;
+    margin-left: 200px;
+
+}
+
+.parent {
+    display: flex;
+    width: 1000px;
+    margin-top: 12px;
+    margin-left: 200px;
+}
+
+.text { 
+    margin: 10px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: blue;
+}
+
+.book {
+    margin: 10px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+
+}
